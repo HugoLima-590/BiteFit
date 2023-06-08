@@ -32,3 +32,4 @@ Instruções de instalação:
 - Configure as credenciais de acesso ao banco de dados no arquivo "conexao.php".
 - Abra o navegador e acesse o endereço do servidor web (por exemplo, http://localhost/).
 - Faça login com as credenciais de nutricionista para acessar o sistema.
+- Para utilizar o ChatBite (API do Chat OpenAI) é preciso criar uma Key no site https://platform.openai.com/account/api-keys e colocar essa Key em request.php antes de iniciar, lembrando que essa API é limitada, e pedir uma requisição muito alta pode diminuir a sua velocidade de resposta e também criar falhas de resposta, tente utilizar requisitos curtos.
