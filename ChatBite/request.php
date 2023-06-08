@@ -4,7 +4,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 use Orhanerday\OpenAi\OpenAi;
 
-$open_ai = new OpenAi('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');
+$open_ai = new OpenAi('Sua Key');
 
 $prompt = 'Você é um chatbot e se chama Chat-Bite especialista em nutrição e somente responde este tipo de pergunta' . $_POST['prompt'];
 
