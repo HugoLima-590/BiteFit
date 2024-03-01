@@ -3,7 +3,7 @@ Projeto utilizado para apresentação do 18° Congresso da faculdade Fundação 
 
 Esse projeto não propõem nenhum tipo de venda, apenas para fins de estudo e pesquisa.
 
-Realiazado em colaboração com https://github.com/layssahillary, https://github.com/marcelocorbon, https://github.com/IsabeleRenovato.
+Realiazado em colaboração com https://github.com/layssahillary, https://github.com/marcelocorbon, https://github.com/IsabeleRenovato, https://github.com/HugoLima-590.
 
 Linguagens utilizadas:
 
